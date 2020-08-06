@@ -15,4 +15,4 @@
 ----------------------
 - Sitio oficial de Python: [Welcome to Python.org](https://www.python.org/)
 - Cursos y libros de Charles Severance: [PY4E - Python for Everybody](https://www.py4e.com/)
-- Libro "Python for Everybody: Exploring Data in Python 3", de C. Severance: [PY4E - Python for Everybody](https://www.py4e.com/book.php)
+- Libro _Python for Everybody: Exploring Data in Python 3_, de C. Severance: [PY4E - Python for Everybody](https://www.py4e.com/book.php)
