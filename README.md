@@ -2,7 +2,7 @@
 
 ## Anaconda
 ----------------------
-- Sitio oficial de Anaconda: [Anaconda | The World's Most Popular Data Science Platform](https://www.anaconda.com/)
+- Sitio oficial de Anaconda: [Anaconda - The World's Most Popular Data Science Platform](https://www.anaconda.com/)
 
 ## Markdown
 ----------------------
