@@ -20,9 +20,11 @@
 ## Otros
 ----------------------
 - Lista de cuentas de Twitter relacionadas con procesamiento de datos geoespaciales: [50 Must-Follow Twitter Accounts for Geospatial, Data Science, and Visualization - Carto Blog](https://carto.com/blog/twitter-guide-2018/)
-    - Alison Presmanes Hill: [Alison Presmanes Hill (@apreshill)](https://twitter.com/apreshill)
-    - Angela Li: [Angela Li (@CivicAngela)](https://twitter.com/CivicAngela)
-    - Desirée De Leon: [Desirée De Leon (@dcossyle)](https://twitter.com/dcossyle)
-    - Edzer Pebesma: [Edzer Pebesma (@edzerpebesma)](https://twitter.com/edzerpebesma)
-    - Jakub Nowosad: [Jakub Nowosad (@jakub_nowosad)](https://twitter.com/jakub_nowosad)
-    - Robin Lovelace: [Robin Lovelace (@robinlovelace)](https://twitter.com/robinlovelace)
+    - Alex Singleton: [Alex Singleton (@alexsingleton)](https://twitter.com/alexsingleton)
+    - Andrew Cutts: [Andrew Cutts (@map_andrew)](Andrew Cutts)
+    - Anita Graser: [Anita Graser (@underdarkGIS)](https://twitter.com/underdarkGIS)
+    - Dani Arribas-Bel: [Dani Arribas-Bel (@darribas)](https://twitter.com/darribas)
+    - Gary Sherman: [Gary Sherman (@shermange)](https://twitter.com/shermange)
+    - José Guerrero Alves: [José Guerrero Alves (@Joseguerreroalv)](https://twitter.com/Joseguerreroalv)
+    - Qiusheng Wu: [Qiusheng Wu (@giswqs)](https://twitter.com/giswqs)
+    - Víctor Olaya: [Víctor Olaya (@volayaf)](https://twitter.com/volayaf)
