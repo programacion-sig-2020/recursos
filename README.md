@@ -21,7 +21,7 @@
 ----------------------
 - Lista de cuentas de Twitter relacionadas con procesamiento de datos geoespaciales: [50 Must-Follow Twitter Accounts for Geospatial, Data Science, and Visualization - Carto Blog](https://carto.com/blog/twitter-guide-2018/)
     - Alex Singleton: [Alex Singleton (@alexsingleton)](https://twitter.com/alexsingleton)
-    - Andrew Cutts: [Andrew Cutts (@map_andrew)](Andrew Cutts)
+    - Andrew Cutts: [Andrew Cutts (@map_andrew)](https://twitter.com/map_andrew)
     - Anita Graser: [Anita Graser (@underdarkGIS)](https://twitter.com/underdarkGIS)
     - Dani Arribas-Bel: [Dani Arribas-Bel (@darribas)](https://twitter.com/darribas)
     - Gary Sherman: [Gary Sherman (@shermange)](https://twitter.com/shermange)
