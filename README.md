@@ -15,11 +15,9 @@
 ----------------------
 - Sitio oficial de Python: [Welcome to Python.org](https://www.python.org/)
 - Documentación oficial de Python 3: [Python Documentation](https://docs.python.org/3/)
-
 - Guía de estilo para código en Python: [PEP 8 -- Style Guide for Python Code - Python.org](https://www.python.org/dev/peps/pep-0008/)
 - Zen de Python: [PEP 20 -- The Zen of Python - Python.org](https://www.python.org/dev/peps/pep-0020/)
 - Guía de mejores prácticas para Python:[The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)
-
 - Cursos y libros de Charles Severance: [PY4E - Python for Everybody](https://www.py4e.com/)
 - Libro _Python for Everybody: Exploring Data in Python 3_, de C. Severance: [PY4E - Python for Everybody](https://www.py4e.com/book.php)
 
