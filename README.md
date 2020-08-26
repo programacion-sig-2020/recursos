@@ -12,7 +12,7 @@
 ## Interfaz de línea de comandos del sistema operativo
 ------------------------------------------------------
 - Referencia para la línea de comandos: [SS64 Command line reference](https://ss64.com/)
-- Algunos comandos básicos para Windows: [Command Prompt: 11 basic commands you should know (cd, dir, mkdir, etc.) - Digital Citizen](https://www.digitalcitizen.life/command-prompt-how-use-basic-commands)
+- Algunos comandos básicos de Windows: [Command Prompt: 11 basic commands you should know (cd, dir, mkdir, etc.) - Digital Citizen](https://www.digitalcitizen.life/command-prompt-how-use-basic-commands)
 
 ## Markdown
 ----------------------
