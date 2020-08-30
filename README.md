@@ -6,7 +6,7 @@
 
 ## GDAL
 ----------------------
-- - Sitio oficial de GDAL: [GDAL](https://gdal.org/)
+- Sitio oficial de GDAL: [GDAL](https://gdal.org/)
 
 ## Git y GitHub
 ----------------------
