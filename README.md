@@ -31,6 +31,18 @@
 - Cursos y libros de Charles Severance: [PY4E - Python for Everybody](https://www.py4e.com/)
 - Libro _Python for Everybody: Exploring Data in Python 3_, de C. Severance: [PY4E - Python for Everybody](https://www.py4e.com/book.php)
 
+## Python geoespacial
+----------------------
+- Cursos y blog sobre QGIS y Python: [Spatial Thoughts - Learning Platform for Modern Geospatial Technologies](https://spatialthoughts.com/)
+### Bibliotecas geoespaciales
+- GDAL: [GDAL](https://gdal.org/)
+#### Fiona
+- Sitio oficial de Fiona: [Toblerity/Fiona: Fiona reads and writes geographic data files](https://github.com/Toblerity/Fiona)
+#### Rasterio
+- Sitio oficial de Rasterio: [mapbox/rasterio: Rasterio reads and writes geospatial raster datasets](https://github.com/mapbox/rasterio)
+#### Shapely
+- Sitio oficial de Shapely: [Toblerity/Fiona: Manipulation and analysis of geometric objects](https://github.com/Toblerity/Shapely)
+
 ## Otros
 ----------------------
 - Lista de cuentas de Twitter relacionadas con procesamiento de datos geoespaciales: [50 Must-Follow Twitter Accounts for Geospatial, Data Science, and Visualization - Carto Blog](https://carto.com/blog/twitter-guide-2018/)
