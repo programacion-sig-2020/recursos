@@ -4,6 +4,10 @@
 ----------------------
 - Sitio oficial de Anaconda: [Anaconda - The World's Most Popular Data Science Platform](https://www.anaconda.com/)
 
+## GDAL
+----------------------
+- - Sitio oficial de GDAL: [GDAL](https://gdal.org/)
+
 ## Git y GitHub
 ----------------------
 - Sitio oficial de Git: [Git](https://git-scm.com/)
@@ -34,14 +38,22 @@
 ## Python geoespacial
 ----------------------
 - Cursos y blog sobre QGIS y Python: [Spatial Thoughts - Learning Platform for Modern Geospatial Technologies](https://spatialthoughts.com/)
+
 ### Bibliotecas geoespaciales
-- GDAL: [GDAL](https://gdal.org/)
 #### Fiona
 - Sitio oficial de Fiona: [Toblerity/Fiona: Fiona reads and writes geographic data files](https://github.com/Toblerity/Fiona)
+#### Folium
+- Sitio oficial de Folium: [python-visualization/folium: Python Data. Leaflet.js Maps](https://github.com/python-visualization/folium)
+#### Geopandas
+- Sitio oficial de GeoPandas: [GeoPandas](https://geopandas.org/)
+- Sitio oficial de Pandas: [pandas - Python Data Analysis Library](https://pandas.pydata.org/)
 #### Rasterio
 - Sitio oficial de Rasterio: [mapbox/rasterio: Rasterio reads and writes geospatial raster datasets](https://github.com/mapbox/rasterio)
 #### Shapely
 - Sitio oficial de Shapely: [Toblerity/Fiona: Manipulation and analysis of geometric objects](https://github.com/Toblerity/Shapely)
+
+### PyQGIS
+- Libro de recetas de PyQGIS: [PyQGIS Developer Cookbook](https://docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/)
 
 ## Otros
 ----------------------
