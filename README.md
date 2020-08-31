@@ -47,7 +47,7 @@
 #### Folium
 - Sitio oficial de Folium: [python-visualization/folium: Python Data. Leaflet.js Maps](https://github.com/python-visualization/folium)
 
-#### Geopandas
+#### GeoPandas
 - Sitio oficial de GeoPandas: [GeoPandas](https://geopandas.org/)
 - Sitio oficial de Pandas: [pandas - Python Data Analysis Library](https://pandas.pydata.org/)
 
