@@ -37,7 +37,7 @@
 
 ## Python geoespacial
 ----------------------
-- Cursos y blog sobre QGIS y Python: [Spatial Thoughts - Learning Platform for Modern Geospatial Technologies](https://spatialthoughts.com/)
+- Cursos y blog de Ujaval Gandhi: [Spatial Thoughts - Learning Platform for Modern Geospatial Technologies](https://spatialthoughts.com/)
 
 ### Bibliotecas geoespaciales
 
