@@ -38,7 +38,8 @@
 ## Python geoespacial
 ----------------------
 - Cursos y blog de Ujaval Gandhi: [Spatial Thoughts - Learning Platform for Modern Geospatial Technologies](https://spatialthoughts.com/)
-- Curso del Departamento de Geociencias de la Universidad de Helsinki: [Welcome to Geo-Python](https://geo-python-site.readthedocs.io/)
+- Curso introductorio del Departamento de Geociencias de la Universidad de Helsinki: [Welcome to Geo-Python](https://geo-python-site.readthedocs.io/)
+- Curso avanzado del Departamento de Geociencias de la Universidad de Helsinki: [Welcome to Automating GIS processes](https://automating-gis-processes.github.io/)
 
 ### Bibliotecas geoespaciales
 
